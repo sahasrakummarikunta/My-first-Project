@@ -1,2 +1,2 @@
-# My-first-Project
-"This is my first project on GitHub."
+# My-first-Project - Basic Quiz Applications using C Language
+
